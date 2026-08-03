@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith Vankayalapati</h1>
 
-<h3 align="center">
 AI & Machine Learning Enthusiast | Future AI Engineer | Python Developer
 </h3>
 
@@ -192,7 +191,7 @@ Tech Used
 # 🏆 GitHub Achievements
 
 <p align="center">
-
+        
 <img src="https://github-profile-trophy.vercel.app/?username=Rohith936&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
 
 </p>
@@ -200,8 +199,8 @@ Tech Used
 ---
 
 # 📈 Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/Rohith936)
+    
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohith936&theme=tokyo-night)](https://github.com/Rohith936)
 
 ---
 
