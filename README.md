@@ -108,7 +108,11 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Rohith936A/Rohith936/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/Rohith936/Rohith936/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
 
 ---
 
